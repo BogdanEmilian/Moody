@@ -14,7 +14,7 @@
     <string name="main_scene">Main Scene</string>
     <string name="update_scene">Update Scene</string>
     <string name="go_back">Go Back</string>
-    <string name="progress_scene">Progress Scene</string>
+    <string name="progress_scene">Here is your progress for the past week</string>
     <string name="how_are_you_feeling_today">How are you feeling today?</string>
     <string name="happiness_level">Happiness level</string>
     <string name="rest_level">Rest level</string>
