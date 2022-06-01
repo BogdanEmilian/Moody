@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893725401810",
+    "project_id": "moody-c6aba",
+    "storage_bucket": "moody-c6aba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893725401810:android:a115ba3a8b67087091c30b",
+        "android_client_info": {
+          "package_name": "com.example.moody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893725401810-51hkub3eshq3tqjn6upk8b4ncpgjojrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9g_Ef5gNhgG6LcmXWN9Bq9aTcJNrxTPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893725401810-51hkub3eshq3tqjn6upk8b4ncpgjojrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Moody</string>
+    <string name="title_activity_progress">ProgressActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="view_progress">View Progress</string>
+    <string name="add_new_data">Add new data</string>
+    <string name="main_scene">Main Scene</string>
+    <string name="update_scene">Update Scene</string>
+    <string name="go_back">Go Back</string>
+    <string name="progress_scene">Progress Scene</string>
+    <string name="how_are_you_feeling_today">How are you feeling today?</string>
+    <string name="happiness_level">Happiness level</string>
+    <string name="rest_level">Rest level</string>
+    <string name="insert">Insert</string>
+</resources>
